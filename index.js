@@ -23,7 +23,7 @@ fightButton.addEventListener("click", function() {
 
 
 /* 
-Note:
+Note This:
 If you put the random index numbers and fighters outside the function.
 
 Thy'd only work once, so, that means variables in functions are very important in multiple scenarios
